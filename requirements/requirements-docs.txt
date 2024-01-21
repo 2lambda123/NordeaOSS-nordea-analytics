@@ -36,7 +36,7 @@ packaging==21.0
     #   sphinx
 pillow==9.0.1
     # via reportlab
-pygments==2.12.0
+pygments==2.15.0
     # via
     #   rst2pdf
     #   sphinx
