@@ -46,7 +46,7 @@ pytz==2021.3
     # via babel
 pyyaml==6.0
     # via sphinx-autoapi
-reportlab==3.6.2
+reportlab==3.6.13
     # via rst2pdf
 requests==2.26.0
     # via sphinx
